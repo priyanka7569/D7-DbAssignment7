@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment7\ConAppLibraryDb\ConAppLibraryDb\bin\Debug\ConAppLibraryDb.exe.config
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment7\ConAppLibraryDb\ConAppLibraryDb\bin\Debug\ConAppLibraryDb.exe
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment7\ConAppLibraryDb\ConAppLibraryDb\bin\Debug\ConAppLibraryDb.pdb
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment7\ConAppLibraryDb\ConAppLibraryDb\obj\Debug\ConAppLibraryDb.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment7\ConAppLibraryDb\ConAppLibraryDb\obj\Debug\ConAppLibraryDb.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment7\ConAppLibraryDb\ConAppLibraryDb\obj\Debug\ConAppLibraryDb.exe
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment7\ConAppLibraryDb\ConAppLibraryDb\obj\Debug\ConAppLibraryDb.pdb
